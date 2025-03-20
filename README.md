@@ -55,10 +55,7 @@ The dataset consists of multiple files related to retail sales, stores, transact
    ```bash
    pip install -r requirements.txt
    ```
-3. Open Jupyter Notebook:
-   ```bash
-   jupyter notebook analysis.ipynb
-   ```
+
 
 ## 🛠️ Technologies Used
 - Python
